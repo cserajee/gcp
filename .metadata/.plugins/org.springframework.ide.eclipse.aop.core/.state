@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="GCPOrder"/>
+<aop-project name="GCPGateway"/>
+<aop-project name="GCPPackage"/>
+<aop-project name="GCPServerRegistry"/>
+<aop-project name="GCPDelivery"/>
+<aop-project name="GCPAccount"/>
+<aop-project name="GCPProduct"/>
+</aop-reference-model>
